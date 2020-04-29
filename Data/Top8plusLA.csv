@@ -1,0 +1,589 @@
+year,month,day,ndvi,city,COVID,rank
+2013,4,10,NA,Kampala,No,5
+2013,4,26,NA,Kampala,No,5
+2014,2,8,NA,Kampala,No,5
+2014,2,24,NA,Kampala,No,5
+2014,3,28,NA,Kampala,No,5
+2014,4,13,0.764,Kampala,No,5
+2015,2,27,0.714,Kampala,No,5
+2015,3,15,0.712,Kampala,No,5
+2015,4,16,NA,Kampala,No,5
+2016,2,14,0.717,Kampala,No,5
+2016,3,1,NA,Kampala,No,5
+2016,3,17,NA,Kampala,No,5
+2016,4,2,NA,Kampala,No,5
+2016,4,18,NA,Kampala,No,5
+2017,2,16,NA,Kampala,No,5
+2017,3,4,NA,Kampala,No,5
+2017,3,20,NA,Kampala,No,5
+2017,4,5,0.734,Kampala,No,5
+2017,4,21,0.814,Kampala,No,5
+2018,2,3,0.694,Kampala,No,5
+2018,2,19,NA,Kampala,No,5
+2018,3,7,NA,Kampala,No,5
+2018,3,23,NA,Kampala,No,5
+2018,4,24,NA,Kampala,No,5
+2019,2,6,0.547,Kampala,No,5
+2019,2,22,NA,Kampala,No,5
+2019,3,10,NA,Kampala,No,5
+2019,3,26,NA,Kampala,No,5
+2019,4,11,0.737,Kampala,No,5
+2020,2,9,0.777,Kampala,Yes,5
+2013,4,7,0.107,Karachi2,No,7
+2014,2,3,0.142,Karachi2,No,7
+2014,2,10,0.123,Karachi2,No,7
+2014,2,10,0.131,Karachi2,No,7
+2014,2,19,0.128,Karachi2,No,7
+2014,2,26,0.128,Karachi2,No,7
+2014,2,26,0.13,Karachi2,No,7
+2014,3,7,0.128,Karachi2,No,7
+2014,3,14,0.122,Karachi2,No,7
+2014,3,14,0.141,Karachi2,No,7
+2014,3,23,0.125,Karachi2,No,7
+2014,3,30,0.122,Karachi2,No,7
+2014,3,30,0.129,Karachi2,No,7
+2014,4,8,0.112,Karachi2,No,7
+2014,4,15,NA,Karachi2,No,7
+2014,4,15,NA,Karachi2,No,7
+2014,4,24,0.108,Karachi2,No,7
+2015,2,6,0.098,Karachi2,No,7
+2015,2,13,0.099,Karachi2,No,7
+2015,2,13,0.099,Karachi2,No,7
+2015,2,22,NA,Karachi2,No,7
+2015,3,1,0.098,Karachi2,No,7
+2015,3,1,0.105,Karachi2,No,7
+2015,3,10,0.086,Karachi2,No,7
+2015,3,17,0.092,Karachi2,No,7
+2015,3,17,0.102,Karachi2,No,7
+2015,3,26,0.093,Karachi2,No,7
+2015,4,2,0.09,Karachi2,No,7
+2015,4,2,0.096,Karachi2,No,7
+2015,4,11,0.086,Karachi2,No,7
+2015,4,18,0.092,Karachi2,No,7
+2015,4,18,NA,Karachi2,No,7
+2015,4,27,0.096,Karachi2,No,7
+2016,2,9,0.082,Karachi2,No,7
+2016,2,16,0.082,Karachi2,No,7
+2016,2,16,0.089,Karachi2,No,7
+2016,2,25,0.082,Karachi2,No,7
+2016,3,3,0.09,Karachi2,No,7
+2016,3,3,0.09,Karachi2,No,7
+2016,3,12,0.084,Karachi2,No,7
+2016,3,19,0.085,Karachi2,No,7
+2016,3,19,0.089,Karachi2,No,7
+2016,3,28,NA,Karachi2,No,7
+2016,4,4,0.077,Karachi2,No,7
+2016,4,4,0.092,Karachi2,No,7
+2016,4,13,0.082,Karachi2,No,7
+2016,4,20,0.08,Karachi2,No,7
+2016,4,20,0.094,Karachi2,No,7
+2016,4,29,0.078,Karachi2,No,7
+2017,2,2,0.13,Karachi2,No,7
+2017,2,2,0.143,Karachi2,No,7
+2017,2,11,0.146,Karachi2,No,7
+2017,2,18,0.154,Karachi2,No,7
+2017,2,18,0.186,Karachi2,No,7
+2017,2,27,0.156,Karachi2,No,7
+2017,3,6,NA,Karachi2,No,7
+2017,3,6,NA,Karachi2,No,7
+2017,3,15,0.129,Karachi2,No,7
+2017,3,22,0.123,Karachi2,No,7
+2017,3,22,0.128,Karachi2,No,7
+2017,3,31,0.115,Karachi2,No,7
+2017,4,7,0.1,Karachi2,No,7
+2017,4,7,0.107,Karachi2,No,7
+2017,4,16,0.115,Karachi2,No,7
+2017,4,23,0.114,Karachi2,No,7
+2017,4,23,0.116,Karachi2,No,7
+2018,2,5,NA,Karachi2,No,7
+2018,2,5,NA,Karachi2,No,7
+2018,2,14,0.142,Karachi2,No,7
+2018,2,21,0.144,Karachi2,No,7
+2018,2,21,0.159,Karachi2,No,7
+2018,3,2,0.151,Karachi2,No,7
+2018,3,9,0.136,Karachi2,No,7
+2018,3,9,0.137,Karachi2,No,7
+2018,3,18,0.118,Karachi2,No,7
+2018,3,25,0.125,Karachi2,No,7
+2018,3,25,0.122,Karachi2,No,7
+2018,4,3,0.118,Karachi2,No,7
+2018,4,10,0.115,Karachi2,No,7
+2018,4,10,0.127,Karachi2,No,7
+2018,4,19,0.122,Karachi2,No,7
+2018,4,26,0.116,Karachi2,No,7
+2018,4,26,0.12,Karachi2,No,7
+2019,2,1,0.098,Karachi2,No,7
+2019,2,8,0.083,Karachi2,No,7
+2019,2,8,0.089,Karachi2,No,7
+2019,2,17,0.093,Karachi2,No,7
+2019,2,24,0.095,Karachi2,No,7
+2019,2,24,0.099,Karachi2,No,7
+2019,3,5,0.106,Karachi2,No,7
+2019,3,12,0.1,Karachi2,No,7
+2019,3,12,0.103,Karachi2,No,7
+2019,3,21,0.109,Karachi2,No,7
+2019,3,28,0.105,Karachi2,No,7
+2019,3,28,0.11,Karachi2,No,7
+2019,4,6,0.099,Karachi2,No,7
+2019,4,13,0.105,Karachi2,No,7
+2019,4,13,0.102,Karachi2,No,7
+2019,4,22,0.087,Karachi2,No,7
+2019,4,29,0.088,Karachi2,No,7
+2019,4,29,0.103,Karachi2,No,7
+2020,2,4,0.201,Karachi2,Yes,7
+2020,2,11,0.179,Karachi2,Yes,7
+2020,2,11,0.185,Karachi2,Yes,7
+2020,2,20,0.172,Karachi2,Yes,7
+2020,2,27,0.2,Karachi2,Yes,7
+2020,2,27,0.185,Karachi2,Yes,7
+2020,3,7,0.161,Karachi2,Yes,7
+2020,3,14,0.17,Karachi2,Yes,7
+2020,3,14,0.164,Karachi2,Yes,7
+2020,3,23,NA,Karachi2,Yes,7
+2020,3,30,0.159,Karachi2,Yes,7
+2020,3,30,0.165,Karachi2,Yes,7
+2020,4,8,0.152,Karachi2,Yes,7
+2020,4,15,0.155,Karachi2,Yes,7
+2020,4,15,0.155,Karachi2,Yes,7
+2013,3,31,NA,Baoding3,No,6
+2013,4,5,NA,Baoding3,No,6
+2013,4,10,0.236,Baoding3,No,6
+2013,4,17,0.185,Baoding3,No,6
+2014,2,15,NA,Baoding3,No,6
+2014,3,3,NA,Baoding3,No,6
+2014,3,19,NA,Baoding3,No,6
+2014,4,4,0.221,Baoding3,No,6
+2014,4,20,0.22,Baoding3,No,6
+2015,2,2,NA,Baoding3,No,6
+2015,2,18,0.173,Baoding3,No,6
+2015,3,6,0.186,Baoding3,No,6
+2015,3,22,0.137,Baoding3,No,6
+2015,4,7,0.236,Baoding3,No,6
+2015,4,23,0.321,Baoding3,No,6
+2016,2,5,0.19,Baoding3,No,6
+2016,2,21,0.061,Baoding3,No,6
+2016,3,8,NA,Baoding3,No,6
+2016,3,24,0.184,Baoding3,No,6
+2016,4,9,0.25,Baoding3,No,6
+2016,4,25,0.444,Baoding3,No,6
+2017,2,23,0.276,Baoding3,No,6
+2017,3,11,NA,Baoding3,No,6
+2017,3,27,0.265,Baoding3,No,6
+2017,4,12,0.277,Baoding3,No,6
+2017,4,28,NA,Baoding3,No,6
+2018,2,10,0.19,Baoding3,No,6
+2018,2,26,0.213,Baoding3,No,6
+2018,3,14,NA,Baoding3,No,6
+2018,3,30,NA,Baoding3,No,6
+2018,4,15,0.268,Baoding3,No,6
+2019,2,13,NA,Baoding3,No,6
+2019,3,1,NA,Baoding3,No,6
+2019,3,17,0.214,Baoding3,No,6
+2019,4,2,0.241,Baoding3,No,6
+2019,4,18,0.232,Baoding3,No,6
+2020,2,16,0.26,Baoding3,Yes,6
+2020,3,3,0.275,Baoding3,Yes,6
+2020,3,19,0.249,Baoding3,Yes,6
+2020,4,4,0.248,Baoding3,Yes,6
+2013,4,11,0.46,Delhi,No,3
+2013,4,18,0.573,Delhi,No,3
+2014,2,9,0.428,Delhi,No,3
+2014,2,16,0.378,Delhi,No,3
+2014,2,25,0.451,Delhi,No,3
+2014,3,13,0.7,Delhi,No,3
+2014,3,29,NA,Delhi,No,3
+2014,4,14,NA,Delhi,No,3
+2014,4,21,0.66,Delhi,No,3
+2015,2,3,0.339,Delhi,No,3
+2015,2,12,0.291,Delhi,No,3
+2015,2,19,NA,Delhi,No,3
+2015,2,28,0.552,Delhi,No,3
+2015,3,7,0.71,Delhi,No,3
+2015,3,16,0.746,Delhi,No,3
+2015,3,23,0.687,Delhi,No,3
+2015,4,1,0.631,Delhi,No,3
+2015,4,8,0.674,Delhi,No,3
+2015,4,17,0.6,Delhi,No,3
+2016,2,6,0.382,Delhi,No,3
+2016,2,15,NA,Delhi,No,3
+2016,2,22,0.606,Delhi,No,3
+2016,3,2,0.543,Delhi,No,3
+2016,3,9,0.633,Delhi,No,3
+2016,3,18,NA,Delhi,No,3
+2016,3,25,NA,Delhi,No,3
+2016,4,3,NA,Delhi,No,3
+2016,4,10,NA,Delhi,No,3
+2016,4,19,0.442,Delhi,No,3
+2016,4,26,0.52,Delhi,No,3
+2017,2,1,0.521,Delhi,No,3
+2017,2,8,0.449,Delhi,No,3
+2017,2,17,NA,Delhi,No,3
+2017,2,24,0.655,Delhi,No,3
+2017,3,5,0.695,Delhi,No,3
+2017,3,12,0.676,Delhi,No,3
+2017,3,21,0.605,Delhi,No,3
+2017,3,28,0.561,Delhi,No,3
+2017,4,6,0.624,Delhi,No,3
+2017,4,13,0.588,Delhi,No,3
+2017,4,22,0.323,Delhi,No,3
+2017,4,29,0.362,Delhi,No,3
+2018,2,4,0.447,Delhi,No,3
+2018,2,11,NA,Delhi,No,3
+2018,2,20,0.496,Delhi,No,3
+2018,2,27,NA,Delhi,No,3
+2018,3,8,0.475,Delhi,No,3
+2018,3,15,NA,Delhi,No,3
+2018,3,24,0.545,Delhi,No,3
+2018,3,31,0.513,Delhi,No,3
+2018,4,16,NA,Delhi,No,3
+2018,4,25,0.501,Delhi,No,3
+2019,2,14,NA,Delhi,No,3
+2019,2,23,0.501,Delhi,No,3
+2019,3,11,0.563,Delhi,No,3
+2019,3,18,0.616,Delhi,No,3
+2019,3,27,NA,Delhi,No,3
+2019,4,3,0.634,Delhi,No,3
+2019,4,12,NA,Delhi,No,3
+2019,4,19,0.602,Delhi,No,3
+2019,4,28,0.546,Delhi,No,3
+2020,2,1,0.501,Delhi,Yes,3
+2020,2,10,0.426,Delhi,Yes,3
+2020,2,17,0.464,Delhi,Yes,3
+2020,3,4,0.671,Delhi,Yes,3
+2020,3,13,0.69,Delhi,Yes,3
+2020,3,20,NA,Delhi,Yes,3
+2020,3,29,0.73,Delhi,Yes,3
+2020,4,5,NA,Delhi,Yes,3
+2020,4,14,NA,Delhi,Yes,3
+2013,4,19,0.82,Bamenda,No,4
+2014,2,17,0.49,Bamenda,No,4
+2014,3,21,0.639,Bamenda,No,4
+2014,4,6,NA,Bamenda,No,4
+2015,2,4,0.687,Bamenda,No,4
+2015,2,20,0.691,Bamenda,No,4
+2015,3,8,0.375,Bamenda,No,4
+2015,3,24,NA,Bamenda,No,4
+2015,4,9,NA,Bamenda,No,4
+2015,4,25,0.784,Bamenda,No,4
+2016,2,7,NA,Bamenda,No,4
+2016,2,23,NA,Bamenda,No,4
+2016,3,10,0.611,Bamenda,No,4
+2016,3,26,0.806,Bamenda,No,4
+2016,4,11,0.67,Bamenda,No,4
+2016,4,27,NA,Bamenda,No,4
+2017,2,9,0.597,Bamenda,No,4
+2017,2,25,0.511,Bamenda,No,4
+2017,3,13,0.51,Bamenda,No,4
+2017,3,29,0.685,Bamenda,No,4
+2017,4,14,0.797,Bamenda,No,4
+2017,4,30,NA,Bamenda,No,4
+2018,2,12,NA,Bamenda,No,4
+2018,2,28,0.655,Bamenda,No,4
+2018,3,16,NA,Bamenda,No,4
+2018,4,1,NA,Bamenda,No,4
+2018,4,17,NA,Bamenda,No,4
+2019,2,15,0.582,Bamenda,No,4
+2019,3,3,0.738,Bamenda,No,4
+2019,3,19,0.721,Bamenda,No,4
+2019,4,4,NA,Bamenda,No,4
+2019,4,20,0.635,Bamenda,No,4
+2020,2,2,0.521,Bamenda,Yes,4
+2020,2,18,0.621,Bamenda,Yes,4
+2020,3,5,0.753,Bamenda,Yes,4
+2020,3,21,0.67,Bamenda,Yes,4
+2020,4,6,NA,Bamenda,Yes,4
+2013,3,21,0.365,Veranasi,No,2
+2013,4,8,0.434,Veranasi,No,2
+2013,4,15,0.448,Veranasi,No,2
+2013,4,15,0.456,Veranasi,No,2
+2014,2,13,0.422,Veranasi,No,2
+2014,2,13,0.42,Veranasi,No,2
+2014,3,1,0.51,Veranasi,No,2
+2014,3,1,0.516,Veranasi,No,2
+2014,3,17,0.469,Veranasi,No,2
+2014,3,17,0.471,Veranasi,No,2
+2014,4,2,0.449,Veranasi,No,2
+2014,4,2,0.45,Veranasi,No,2
+2014,4,18,NA,Veranasi,No,2
+2014,4,18,NA,Veranasi,No,2
+2015,2,16,0.446,Veranasi,No,2
+2015,2,16,NA,Veranasi,No,2
+2015,3,20,0.442,Veranasi,No,2
+2015,3,20,0.461,Veranasi,No,2
+2015,4,5,NA,Veranasi,No,2
+2015,4,5,NA,Veranasi,No,2
+2015,4,21,0.462,Veranasi,No,2
+2015,4,21,0.447,Veranasi,No,2
+2016,2,3,0.354,Veranasi,No,2
+2016,2,3,0.417,Veranasi,No,2
+2016,2,19,0.388,Veranasi,No,2
+2016,2,19,0.43,Veranasi,No,2
+2016,3,6,NA,Veranasi,No,2
+2016,3,6,NA,Veranasi,No,2
+2016,3,22,0.473,Veranasi,No,2
+2016,3,22,0.482,Veranasi,No,2
+2016,4,7,NA,Veranasi,No,2
+2016,4,7,NA,Veranasi,No,2
+2016,4,23,0.422,Veranasi,No,2
+2016,4,23,0.426,Veranasi,No,2
+2017,2,5,0.404,Veranasi,No,2
+2017,2,5,0.405,Veranasi,No,2
+2017,2,21,0.377,Veranasi,No,2
+2017,2,21,0.393,Veranasi,No,2
+2017,3,9,NA,Veranasi,No,2
+2017,3,9,NA,Veranasi,No,2
+2017,3,25,0.367,Veranasi,No,2
+2017,3,25,0.382,Veranasi,No,2
+2017,4,10,0.408,Veranasi,No,2
+2017,4,10,0.414,Veranasi,No,2
+2017,4,26,0.399,Veranasi,No,2
+2017,4,26,0.401,Veranasi,No,2
+2018,2,8,0.359,Veranasi,No,2
+2018,2,8,NA,Veranasi,No,2
+2018,2,24,0.317,Veranasi,No,2
+2018,2,24,0.333,Veranasi,No,2
+2018,3,12,0.332,Veranasi,No,2
+2018,3,12,0.331,Veranasi,No,2
+2018,3,28,0.353,Veranasi,No,2
+2018,3,28,0.353,Veranasi,No,2
+2018,4,13,0.435,Veranasi,No,2
+2018,4,13,0.435,Veranasi,No,2
+2018,4,29,0.353,Veranasi,No,2
+2018,4,29,0.349,Veranasi,No,2
+2019,2,11,0.405,Veranasi,No,2
+2019,2,11,0.422,Veranasi,No,2
+2019,2,27,NA,Veranasi,No,2
+2019,2,27,NA,Veranasi,No,2
+2019,3,15,NA,Veranasi,No,2
+2019,3,15,NA,Veranasi,No,2
+2019,3,31,0.356,Veranasi,No,2
+2019,3,31,0.384,Veranasi,No,2
+2019,4,16,NA,Veranasi,No,2
+2019,4,16,NA,Veranasi,No,2
+2020,2,14,0.45,Veranasi,Yes,2
+2020,2,14,0.44,Veranasi,Yes,2
+2020,3,1,NA,Veranasi,Yes,2
+2020,3,1,NA,Veranasi,Yes,2
+2020,3,17,NA,Veranasi,Yes,2
+2020,3,17,0.423,Veranasi,Yes,2
+2020,4,2,0.469,Veranasi,Yes,2
+2020,4,2,0.481,Veranasi,Yes,2
+2020,4,18,NA,Veranasi,Yes,2
+2020,4,18,NA,Veranasi,Yes,2
+2013,4,13,0.361,Kanpur,No,1
+2013,4,29,0.433,Kanpur,No,1
+2014,2,11,0.583,Kanpur,No,1
+2014,2,27,0.689,Kanpur,No,1
+2014,3,15,0.751,Kanpur,No,1
+2014,3,31,0.743,Kanpur,No,1
+2014,4,16,NA,Kanpur,No,1
+2015,2,14,0.39,Kanpur,No,1
+2015,3,18,0.74,Kanpur,No,1
+2015,4,3,0.557,Kanpur,No,1
+2015,4,19,0.389,Kanpur,No,1
+2016,2,1,NA,Kanpur,No,1
+2016,2,17,0.504,Kanpur,No,1
+2016,3,4,0.627,Kanpur,No,1
+2016,3,20,0.566,Kanpur,No,1
+2016,4,5,0.556,Kanpur,No,1
+2016,4,21,0.448,Kanpur,No,1
+2017,2,3,0.52,Kanpur,No,1
+2017,2,19,0.572,Kanpur,No,1
+2017,3,7,0.641,Kanpur,No,1
+2017,3,23,0.651,Kanpur,No,1
+2017,4,8,0.479,Kanpur,No,1
+2017,4,24,0.492,Kanpur,No,1
+2018,2,6,NA,Kanpur,No,1
+2018,2,22,NA,Kanpur,No,1
+2018,3,10,0.641,Kanpur,No,1
+2018,3,26,0.608,Kanpur,No,1
+2018,4,11,NA,Kanpur,No,1
+2018,4,27,0.372,Kanpur,No,1
+2019,2,9,0.646,Kanpur,No,1
+2019,2,25,0.613,Kanpur,No,1
+2019,3,13,0.648,Kanpur,No,1
+2019,3,29,0.646,Kanpur,No,1
+2019,4,14,0.432,Kanpur,No,1
+2019,4,30,0.38,Kanpur,No,1
+2020,2,12,0.536,Kanpur,Yes,1
+2020,2,28,0.658,Kanpur,Yes,1
+2020,3,15,NA,Kanpur,Yes,1
+2020,3,31,0.771,Kanpur,Yes,1
+2020,4,16,0.676,Kanpur,Yes,1
+2013,4,15,NA,Linfen2,No,8
+2013,4,24,0.658,Linfen2,No,8
+2014,2,13,0.154,Linfen2,No,8
+2014,2,22,NA,Linfen2,No,8
+2014,3,1,NA,Linfen2,No,8
+2014,3,10,0.189,Linfen2,No,8
+2014,3,17,0.172,Linfen2,No,8
+2014,3,26,0.234,Linfen2,No,8
+2014,4,2,NA,Linfen2,No,8
+2014,4,27,0.66,Linfen2,No,8
+2015,2,9,0.059,Linfen2,No,8
+2015,2,16,0.198,Linfen2,No,8
+2015,2,25,0.198,Linfen2,No,8
+2015,3,13,0.185,Linfen2,No,8
+2015,3,20,NA,Linfen2,No,8
+2015,3,29,0.237,Linfen2,No,8
+2015,4,5,NA,Linfen2,No,8
+2015,4,14,0.466,Linfen2,No,8
+2015,4,21,NA,Linfen2,No,8
+2015,4,30,0.763,Linfen2,No,8
+2016,2,3,0.16,Linfen2,No,8
+2016,2,19,0.206,Linfen2,No,8
+2016,2,28,0.224,Linfen2,No,8
+2016,3,6,0.142,Linfen2,No,8
+2016,3,31,0.236,Linfen2,No,8
+2016,4,7,0.29,Linfen2,No,8
+2016,4,16,0.614,Linfen2,No,8
+2016,4,23,NA,Linfen2,No,8
+2017,2,5,NA,Linfen2,No,8
+2017,2,14,NA,Linfen2,No,8
+2017,3,2,0.244,Linfen2,No,8
+2017,3,9,0.232,Linfen2,No,8
+2017,3,18,0.225,Linfen2,No,8
+2017,3,25,0.266,Linfen2,No,8
+2017,4,3,NA,Linfen2,No,8
+2017,4,19,NA,Linfen2,No,8
+2017,4,26,NA,Linfen2,No,8
+2018,2,1,0.148,Linfen2,No,8
+2018,2,8,0.128,Linfen2,No,8
+2018,2,24,0.145,Linfen2,No,8
+2018,3,12,0.182,Linfen2,No,8
+2018,3,21,0.264,Linfen2,No,8
+2018,3,28,NA,Linfen2,No,8
+2018,4,6,NA,Linfen2,No,8
+2018,4,29,0.804,Linfen2,No,8
+2019,2,4,NA,Linfen2,No,8
+2019,2,11,NA,Linfen2,No,8
+2019,2,20,NA,Linfen2,No,8
+2019,2,27,NA,Linfen2,No,8
+2019,3,8,NA,Linfen2,No,8
+2019,3,15,0.25,Linfen2,No,8
+2019,3,24,0.198,Linfen2,No,8
+2019,3,31,0.267,Linfen2,No,8
+2019,4,16,0.6,Linfen2,No,8
+2019,4,25,0.635,Linfen2,No,8
+2020,2,7,0.089,Linfen2,Yes,8
+2020,2,23,0.191,Linfen2,Yes,8
+2020,3,1,0.263,Linfen2,Yes,8
+2020,3,10,0.228,Linfen2,Yes,8
+2020,3,17,0.225,Linfen2,Yes,8
+2020,4,2,0.414,Linfen2,Yes,8
+2013,4,1,NA,Los Angeles,No,9
+2013,4,11,0.576,Los Angeles,No,9
+2013,4,20,0.472,Los Angeles,No,9
+2013,4,27,0.413,Los Angeles,No,9
+2014,2,2,NA,Los Angeles,No,9
+2014,2,2,NA,Los Angeles,No,9
+2014,2,9,NA,Los Angeles,No,9
+2014,2,18,0.236,Los Angeles,No,9
+2014,2,18,0.234,Los Angeles,No,9
+2014,2,25,0.242,Los Angeles,No,9
+2014,3,6,NA,Los Angeles,No,9
+2014,3,6,NA,Los Angeles,No,9
+2014,3,13,0.272,Los Angeles,No,9
+2014,3,22,NA,Los Angeles,No,9
+2014,3,22,NA,Los Angeles,No,9
+2014,3,29,0.354,Los Angeles,No,9
+2014,4,7,0.404,Los Angeles,No,9
+2014,4,7,0.412,Los Angeles,No,9
+2014,4,14,0.445,Los Angeles,No,9
+2014,4,23,0.383,Los Angeles,No,9
+2014,4,23,0.389,Los Angeles,No,9
+2015,2,5,0.871,Los Angeles,No,9
+2015,2,5,0.864,Los Angeles,No,9
+2015,2,12,0.869,Los Angeles,No,9
+2015,2,21,NA,Los Angeles,No,9
+2015,2,21,NA,Los Angeles,No,9
+2015,2,28,NA,Los Angeles,No,9
+2015,3,9,0.845,Los Angeles,No,9
+2015,3,9,0.837,Los Angeles,No,9
+2015,3,16,0.762,Los Angeles,No,9
+2015,3,25,0.691,Los Angeles,No,9
+2015,3,25,0.686,Los Angeles,No,9
+2015,4,1,0.53,Los Angeles,No,9
+2015,4,10,0.457,Los Angeles,No,9
+2015,4,10,0.447,Los Angeles,No,9
+2015,4,17,0.364,Los Angeles,No,9
+2015,4,26,0.335,Los Angeles,No,9
+2015,4,26,0.335,Los Angeles,No,9
+2016,2,8,0.727,Los Angeles,No,9
+2016,2,8,0.737,Los Angeles,No,9
+2016,2,15,0.662,Los Angeles,No,9
+2016,2,24,0.633,Los Angeles,No,9
+2016,2,24,0.649,Los Angeles,No,9
+2016,3,2,0.467,Los Angeles,No,9
+2016,3,11,NA,Los Angeles,No,9
+2016,3,11,NA,Los Angeles,No,9
+2016,3,18,0.569,Los Angeles,No,9
+2016,3,27,0.45,Los Angeles,No,9
+2016,3,27,0.445,Los Angeles,No,9
+2016,4,3,0.401,Los Angeles,No,9
+2016,4,12,0.325,Los Angeles,No,9
+2016,4,12,0.331,Los Angeles,No,9
+2016,4,19,0.299,Los Angeles,No,9
+2016,4,28,NA,Los Angeles,No,9
+2016,4,28,NA,Los Angeles,No,9
+2017,2,1,0.736,Los Angeles,No,9
+2017,2,10,NA,Los Angeles,No,9
+2017,2,10,NA,Los Angeles,No,9
+2017,2,26,NA,Los Angeles,No,9
+2017,2,26,NA,Los Angeles,No,9
+2017,3,5,NA,Los Angeles,No,9
+2017,3,14,0.877,Los Angeles,No,9
+2017,3,14,0.868,Los Angeles,No,9
+2017,3,21,NA,Los Angeles,No,9
+2017,3,30,0.837,Los Angeles,No,9
+2017,3,30,0.832,Los Angeles,No,9
+2017,4,6,NA,Los Angeles,No,9
+2017,4,15,0.722,Los Angeles,No,9
+2017,4,15,0.713,Los Angeles,No,9
+2017,4,22,0.673,Los Angeles,No,9
+2018,2,4,0.369,Los Angeles,No,9
+2018,2,13,0.417,Los Angeles,No,9
+2018,2,13,0.412,Los Angeles,No,9
+2018,2,20,0.39,Los Angeles,No,9
+2018,3,1,0.407,Los Angeles,No,9
+2018,3,1,0.405,Los Angeles,No,9
+2018,3,8,NA,Los Angeles,No,9
+2018,3,17,0.537,Los Angeles,No,9
+2018,3,17,0.522,Los Angeles,No,9
+2018,3,24,NA,Los Angeles,No,9
+2018,4,2,NA,Los Angeles,No,9
+2018,4,2,NA,Los Angeles,No,9
+2018,4,9,0.55,Los Angeles,No,9
+2018,4,18,0.511,Los Angeles,No,9
+2018,4,18,0.512,Los Angeles,No,9
+2018,4,25,0.486,Los Angeles,No,9
+2019,2,7,0.744,Los Angeles,No,9
+2019,2,16,0.787,Los Angeles,No,9
+2019,2,16,0.775,Los Angeles,No,9
+2019,2,23,0.79,Los Angeles,No,9
+2019,3,4,NA,Los Angeles,No,9
+2019,3,4,0.624,Los Angeles,No,9
+2019,3,11,NA,Los Angeles,No,9
+2019,3,20,NA,Los Angeles,No,9
+2019,3,20,NA,Los Angeles,No,9
+2019,3,27,0.791,Los Angeles,No,9
+2019,4,5,0.872,Los Angeles,No,9
+2019,4,5,0.864,Los Angeles,No,9
+2019,4,12,0.83,Los Angeles,No,9
+2019,4,21,NA,Los Angeles,No,9
+2019,4,21,NA,Los Angeles,No,9
+2019,4,28,0.657,Los Angeles,No,9
+2020,2,3,0.692,Los Angeles,Yes,9
+2020,2,3,0.676,Los Angeles,Yes,9
+2020,2,10,0.603,Los Angeles,Yes,9
+2020,2,19,0.742,Los Angeles,Yes,9
+2020,2,19,0.726,Los Angeles,Yes,9
+2020,2,26,0.737,Los Angeles,Yes,9
+2020,3,6,0.746,Los Angeles,Yes,9
+2020,3,6,0.747,Los Angeles,Yes,9
+2020,3,13,NA,Los Angeles,Yes,9
+2020,3,22,0.705,Los Angeles,Yes,9
+2020,3,22,0.693,Los Angeles,Yes,9
+2020,3,29,NA,Los Angeles,Yes,9
+2020,4,7,NA,Los Angeles,Yes,9
+2020,4,14,0.622,Los Angeles,Yes,9
